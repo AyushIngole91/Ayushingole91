@@ -33,7 +33,3 @@
 - :dart: Aim: To become a skilled and innovative developer.
 - :zap: Fun fact: I enjoy exploring new technologies and attending tech events.<br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedInUsername-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourLinkedInUsername/)](https://www.linkedin.com/in/YourLinkedInUsername) [![Twitter Badge](https://img.shields.io/badge/-YourTwitterHandle-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/YourTwitterHandle)](https://twitter.com/YourTwitterHandle) [![Facebook Badge](https://img.shields.io/badge/-YourFacebookUsername-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/YourFacebookUsername)](https://www.facebook.com/YourFacebookUsername) [![Instagram Badge](https://img.shields.io/badge/-YourInstagramUsername-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/YourInstagramUsername/)](https://www.instagram.com/YourInstagramUsername/)
-[![Portfolio Badge](https://img.shields.io/badge/-Your.Portfolio-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://YourPortfolio.tech/)](https://YourPortfolio.tech/)
